@@ -21,4 +21,6 @@ Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
 [uYouPlusExtra 17.33.2 (Altstore)](https://tinyurl.com/5n7m4h3c)
 
-uYouPlusExtra-Download repo was Updated on August 29th 2022!
+
+### Updated Repository
+uYouPlusExtra-Download was Updated on August 29th 2022!
