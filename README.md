@@ -12,11 +12,13 @@ uYouPlus Extra Additional Features by arichorn.
 **Sideloading (No Jailbreak):** 
      Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
        
-   | Download | Application | Version | MiRO92's uYou | File Type |
+   | Download | App Name | App Version | Release Number | File Type |
    |----------|:------:|:-------:|:----:|:---------:|
-   | [Download Link](https://tinyurl.com/2p8h3x8k) | YouTube | 17.32.2 | 2.1 | IPA |
+   | [Download Link](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.33.2-2.1-(128)/uYouPlus_17.33.2_2.1_F4.ipa) | YouTube | 17.33.2 | F4 | IPA |
 
 ### Altstore
 Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
-[uYouPlusExtra 17.32.2 (Altstore)](https://tinyurl.com/yyz98m8p)
+[uYouPlusExtra 17.33.2 (Altstore)](https://tinyurl.com/5n7m4h3c)
+
+uYouPlusExtra-Download repo was Updated on August 29th 2022!
