@@ -22,7 +22,7 @@
 ### Altstore
 Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
-##### uYouPlusExtra (ALTSTORE DOWNLOAD)
+##### uYouPlus (ALTSTORE DOWNLOAD)
 [qnblackcat - uYouPlus v17.34.3](https://tinyurl.com/3vjyvwwe)
 ##### uYouPlusExtra (ALTSTORE DOWNLOAD)
 [arichorn - uYouPlusExtra v17.34.3](https://tinyurl.com/4yw25d72)
