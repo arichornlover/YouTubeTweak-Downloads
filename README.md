@@ -38,6 +38,8 @@ Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
 **uYouPlusLegacy: qnblackcat's uYouPlus Mod but only should work with older YouTube versions of the app.**
 
+### Disclaimer: if uYouPlusLegacy crashes then show me the crash log of the app and I'll see if i can fix it.
+
 ### Updated Repository
 Updated on September 4th!,
 Added qnblackcat's release,
