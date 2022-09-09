@@ -34,7 +34,7 @@ Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
 **uYouPlus: this version is like MiRO's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, PoomSmart, Galactic-Dev Level3tjg, BandarHL and more.**
 
-**uYouPlusExtra: just like qnblackcat's uYouPlus but my version just adds rejected tweaks like YTDisableHighContrastIcons.**
+**uYouPlusExtra: just like qnblackcat's uYouPlus but my version just stuff he didn't want to add and rejected my suggested modifications so yall can get more features added by me in this one!**
 
 **uYouPlusLegacy: qnblackcat's uYouPlus Mod but only should work with older YouTube versions of the app.**
 
