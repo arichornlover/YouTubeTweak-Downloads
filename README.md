@@ -9,11 +9,11 @@
  
    | Download | App Name | App Version | Release Name | Released By | File Type |
    |----------|:------:|:-------:|:------:|:---------:|:---------:|
-   | [Download Link](https://github.com/qnblackcat/uYouPlus/releases/download/v17.35.3-2.1/uYouPlus_17.35.3_2.1.ipa) | YouTube | v17.35.3 | uYouPlus | qnblackcat | IPA |
+   | [Download Link](https://github.com/qnblackcat/uYouPlus/releases/download/v17.36.3-2.1/uYouPlus_17.36.3_2.1.ipa) | YouTube | v17.36.3 | uYouPlus | qnblackcat | IPA |
  
    | Download | App Name | App Version | Release Name | Released By | File Type |
    |----------|:------:|:-------:|:------:|:---------:|:---------:|
-   | [Download Link](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.35.3-2.1-(149)/uYouPlus_17.35.3_2.1_F2.ipa) | YouTube | v17.35.3 | uYouPlusExtra | arichorn | IPA |
+   | [Download Link](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.35.3-2.1-(153)/uYouPlusExtra_17.35.3_2.1_F4.ipa) | YouTube | v17.35.3 (F4) | uYouPlusExtra | arichorn | IPA |
        
    | Download | App Name | App Version | Release Name | Released By | File Type |
    |----------|:------:|:-------:|:----:|:---------:|:---------:|
@@ -23,7 +23,7 @@
 Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
 ##### uYouPlus (ALTSTORE DOWNLOAD)
-[qnblackcat - uYouPlus v17.35.3](https://tinyurl.com/yeyvntka)
+[qnblackcat - uYouPlus v17.36.3](https://tinyurl.com/5yskfzsn)
 ##### uYouPlusExtra (ALTSTORE DOWNLOAD)
 [arichorn - uYouPlusExtra v17.35.3](https://tinyurl.com/2hr87wxr)
 ##### uYouPlusLegacy (ALTSTORE DOWNLOAD)
