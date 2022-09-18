@@ -53,7 +53,7 @@ Required to use uYouPlusExtra on Altstore (https://altstore.io/)
 
 **uYouPlusLegacy:** qnblackcat's uYouPlus Mod but only should work with older YouTube versions of the app.
 
-### Disclaimer 1: uYouPlus-For-JB has not updated in a while so if there are any issues that YouTube changed using theie servers then contact ichitaso to update it the repo.
+### Disclaimer 1: uYouPlus-For-JB has not updated in a while so if there are any issues that YouTube changed using their servers (as usual) then contact ichitaso to update the repo.
 
 ### Disclaimer 2: if uYouPlusLegacy/uYouPlusExtra crashes then show me the crash log of the app and I'll see if i can fix it.
 
