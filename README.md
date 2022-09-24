@@ -4,7 +4,12 @@
 [Click here to read more about qnblackcat's uYouPlus](https://github.com/qnblackcat/uYouPlus/wiki)
 ## uYouPlus Downloads
 
-**Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in the iPhone/iPad/iPod into your Mac/Windows and install the app to your apple device using Altstore/Sideloadly and then after that you'll have to refresh it when it expires in a week.
+## Altstore Installation Page (No Jailbreak)
+need help installing & using Altstore? then go check out these websites for 
+(https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
+(https://faq.altstore.io/how-to-use-altstore/your-altstore)
+
+**Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring.
  
    | Download Link | App Name | App Version | Release Name | Released By | File Type |
    |----------|:------:|:-------:|:------:|:---------:|:---------:|
@@ -16,18 +21,22 @@
  
    | Download Link | App Name | App Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:-----:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.36.4-2.1-(156)/uYouPlusExtra_17.36.4_2.1_F3.ipa) | YouTube | v17.36.4 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.37.3-2.1-(202)/uYouPlusExtra_17.37.3_2.1_F3.ipa) | YouTube | v17.37.3 | uYouPlusExtra | arichorn | IPA |
 
 ### 📲✔️ Sideload Versions 📲✔️
-Required to use uYouPlusExtra on Altstore (https://altstore.io/)
+for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+.
 
    | Download Link | App Version | Release Name | Released By | App Identifer | App Type |
    |------------|:------:|:------:|:-----------:|:-----------:|:--------:|
-   | [Direct Download](https://tinyurl.com/2p8pd9n7) | v17.37.3 | uYouPlus | qnblackcat | Not Jailbroken | Altstore
+   | [Direct Download](https://tinyurl.com/2spf7u53) | v16.42.3 | uYou | MiRO92 | Not Jailbroken | Altstore
 
    | Download Link | App Version | Release Name | Released By | App Identifer | App Type |
    |------------|:------:|:------:|:-----------:|:-----------:|:--------:|
-   | [Direct Download](https://tinyurl.com/5dzjrktu) | v17.36.4 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
+   | [Direct Download](https://tinyurl.com/sy5kt5vf) | v17.37.3 | uYouPlus | qnblackcat | Not Jailbroken | Altstore
+
+   | Download Link | App Version | Release Name | Released By | App Identifer | App Type |
+   |------------|:------:|:------:|:-----------:|:-----------:|:--------:|
+   | [Direct Download](https://tinyurl.com/ycxvs9hs) | v17.37.3 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
@@ -52,11 +61,8 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 ### Disclaimer 2: if uYouPlusLegacy/uYouPlusExtra crashes then show me the crash log of the app and I'll see if i can fix it.
 
 ### Updated Repository
-- Recently Updated this on September 18th 2022!
-- Added uYou Download - original download from https://github.com/miro92/uyou-for-youtube
-- Added uYouPlus-for-JailBreak v1.0.7 by @ichitaso
-- Made it easier to access Altstore & Cydia Downloads (Took 30+ Minutes)
-- Added & Fixed Descriptions of uYouPlus-For-JB & uYouPlusExtra
-- Updated qnblackcat's uYouPlus release to v17.36.4 (F1).
-- Updated arichorn's uYouPlusExtra releaae to v17.36.4 (F3).
-- Fixed Misspelling Errors
+- Recently Updated this on September 24th 2022!
+- Added MiRO92’s uYou download for only Altstore Sideloading.
+- added Altstore Installation for users to install it easier
+- Fixed qnblackcat's uYouPlus not being able to download on v17.37.3
+- Updated arichorn's uYouPlusExtra releaae to v17.37.3 (F3).
