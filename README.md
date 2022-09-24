@@ -2,14 +2,13 @@
 [Click here to read more about MiRO92's uYou](https://miro92.com/repo/depictions/?p=com.miro.uyou)
 ## qnblackcat's uYouPlus Wiki Page
 [Click here to read more about qnblackcat's uYouPlus](https://github.com/qnblackcat/uYouPlus/wiki)
-## uYouPlus Downloads
 
 ## Altstore Installation Page (No Jailbreak)
 need help installing & using Altstore? then go check out these websites for 
 (https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
 (https://faq.altstore.io/how-to-use-altstore/your-altstore)
 
-**Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring.
+## uYouPlus Downloads
  
    | Download Link | App Name | App Version | Release Name | Released By | File Type |
    |----------|:------:|:-------:|:------:|:---------:|:---------:|
@@ -24,7 +23,7 @@ need help installing & using Altstore? then go check out these websites for
    | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.37.3-2.1-(202)/uYouPlusExtra_17.37.3_2.1_F3.ipa) | YouTube | v17.37.3 | uYouPlusExtra | arichorn | IPA |
 
 ### 📲✔️ Sideload Versions 📲✔️
-for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+.
+**Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring and for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+.
 
    | Download Link | App Version | Release Name | Released By | App Identifer | App Type |
    |------------|:------:|:------:|:-----------:|:-----------:|:--------:|
@@ -66,3 +65,4 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 - added Altstore Installation for users to install it easier
 - Fixed qnblackcat's uYouPlus not being able to download on v17.37.3
 - Updated arichorn's uYouPlusExtra releaae to v17.37.3 (F3).
+- Incorrect Typing/Spelling in Repository
