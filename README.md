@@ -9,7 +9,6 @@ need help installing & using Altstore? then go check out these websites for
 (https://faq.altstore.io/how-to-use-altstore/your-altstore)
 
 ## uYouPlus Downloads
- 
    | Download Link | App Name | App Version | Release Name | Released By | File Type |
    |----------|:------:|:-------:|:------:|:---------:|:---------:|
    | [Direct Download](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa) | YouTube | v16.42.3 | uYou | MiRO92 | IPA |
@@ -22,9 +21,13 @@ need help installing & using Altstore? then go check out these websites for
    |-------------|:------:|:-------:|:------:|:---------:|:-----:|
    | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.37.3-2.1-(202)/uYouPlusExtra_17.37.3_2.1_F3.ipa) | YouTube | v17.37.3 | uYouPlusExtra | arichorn | IPA |
 
+## CercubePlus Downloads
+   | Download Link | App Name | App Version | Release Name | Released By | File Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:-----:|
+   | [Direct Download](https://github.com/arichorn/CercubePlusExtra/releases/download/v17.33.2-5.3.11-(14)/CercubePlus_17.33.2_5.3.11.ipa) | YouTube | v17.33.2 | CercubePlusExtra | arichorn | IPA |
+
 ### 📲✔️ Sideload Versions 📲✔️
 **Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring and for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+.
-
    | Download Link | App Version | Release Name | Released By | App Identifer | App Type |
    |------------|:------:|:------:|:-----------:|:-----------:|:--------:|
    | [Direct Download](https://tinyurl.com/2spf7u53) | v16.42.3 | uYou | MiRO92 | Not Jailbroken | Altstore
@@ -35,11 +38,10 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | App Version | Release Name | Released By | App Identifer | App Type |
    |------------|:------:|:------:|:-----------:|:-----------:|:--------:|
-   | [Direct Download](https://tinyurl.com/ycxvs9hs) | v17.37.3 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
+   | [Direct Download](https://tinyurl.com/mw9yj4ph) | v17.37.3 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
-
    | Download Link | Deb Version | App Version | Release Name | Released By | App Identifer | App Type |
    |-------------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
    | [Download](https://www.ios-repo-updates.com/repository/ichitaso-repository/package/com.ichitaso.uyouplus) | 1.0.7 | v17.17.4-v17.29.3 | uYouPlus-For-JB | ichitaso | Jailbroken | Cydia
@@ -51,7 +53,7 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 
 **uYouPlus-For-JB:** this version is meant to be for Jailbroken users, this version of uYouPlus was modified by ichitaso. a unique developer thats pretty good at making jailbreak tweaks. but however sideloaded users should skip this one.
 
-**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version is just some small features he didn't want to add so I did some modifications so yall can get more features that helps you out in this one!
+**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 5+ additional tweaks! **YTDisableHighContrastUI**, **YTDisableHighContrastUIColors**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **DontEatMyContent** & **~~YTShortsProgress~~**.
 
 **uYouPlusLegacy:** qnblackcat's uYouPlus Mod but only should work with older YouTube versions of the app. **(Not Released at the moment)**
 
@@ -60,9 +62,6 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 ### Disclaimer 2: if uYouPlusLegacy/uYouPlusExtra crashes then show me the crash log of the app and I'll see if i can fix it.
 
 ### Updated Repository
-- Recently Updated this on September 24th 2022!
-- Added MiRO92’s uYou download for only Altstore Sideloading.
-- added Altstore Installation for users to install it easier
-- Fixed qnblackcat's uYouPlus not being able to download on v17.37.3
-- Updated arichorn's uYouPlusExtra releaae to v17.37.3 (F3).
-- Incorrect Typing/Spelling in Repository
+- Recently Updated this on September 25th 2022!
+- Updated arichorn's uYouPlusExtra to 17.37.3 (F5) with the new tweak **DontEatMyContent**
+
