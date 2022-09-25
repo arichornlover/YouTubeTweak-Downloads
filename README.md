@@ -12,7 +12,7 @@ need help installing & using Altstore? then go check out these websites for
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
    | [Direct Download](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYou | MiRO92 | IPA |
- 
+   
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
    | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.37.3-2.1/uYouPlus_17.37.3_2.1.ipa) | YouTube | v17.37.3 | v2.1 | uYouPlus | qnblackcat | IPA |
@@ -28,17 +28,17 @@ need help installing & using Altstore? then go check out these websites for
 
 ### 📲✔️ Direct-Sideload Versions 📲✔️
 **Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring and for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+.
-   | Download Link | App Version | Release Name | Released By | App Recogition | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://tinyurl.com/2spf7u53) | v16.42.3 | uYou | MiRO92 | Not Jailbroken | Altstore
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Recogition | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
+   | [Direct Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou | MiRO92 | Not Jailbroken | Altstore
 
-   | Download Link | App Version | Release Name | Released By | App Recogition | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://tinyurl.com/sy5kt5vf) | v17.37.3 | uYouPlus | qnblackcat | Not Jailbroken | Altstore
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Recogition | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
+   | [Direct Download](https://tinyurl.com/sy5kt5vf) | v2.1 | v17.37.3 | uYouPlus | qnblackcat | Not Jailbroken | Altstore
 
-   | Download Link | App Version | Release Name | Released By | App Recogition | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://tinyurl.com/mw9yj4ph) | v17.37.3 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Recogition | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
+   | [Direct Download](https://tinyurl.com/mw9yj4ph) | v2.1 | v17.37.3 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
