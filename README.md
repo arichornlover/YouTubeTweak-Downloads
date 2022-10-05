@@ -15,11 +15,11 @@ need help installing & using Altstore? then go check out these websites for
    
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.37.3-2.1/uYouPlus_17.37.3_2.1.ipa) | YouTube | v17.37.3 | v2.1 | uYouPlus | qnblackcat | IPA |
+   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.39.4-2.1/uYouPlus_17.39.4_2.1.ipa) | YouTube | v17.39.4 | v2.1 | uYouPlus | qnblackcat | IPA |
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.38.10-2.1-(215)/uYouPlusExtra_17.38.10_2.1.ipa) | YouTube | v17.38.10 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.39.4-2.1-(226)/uYouPlusExtra_17.39.4_2.1_F2.ipa) | YouTube | v17.39.4 | v2.1 | uYouPlusExtra | arichorn | IPA |
 
 ## CercubePlus Downloads
    | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
@@ -34,11 +34,11 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Recogition | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/sy5kt5vf) | v2.1 | v17.37.3 | uYouPlus | qnblackcat | Not Jailbroken | Altstore
+   | [Direct Download](https://tinyurl.com/t9hnhmhu) | v2.1 | v17.39.4 | uYouPlus | qnblackcat | Not Jailbroken | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Recogition | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/5824fnvf) | v2.1 | v17.38.10 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
+   | [Direct Download](https://tinyurl.com/bdz6n9zr) | v2.1 | v17.39.4 | uYouPlusExtra | arichorn | Not Jailbroken | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
@@ -53,7 +53,7 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 
 **uYouPlus-For-JB:** this version is meant to be for Jailbroken users, this version of uYouPlus was modified by ichitaso. a unique developer thats pretty good at making jailbreak tweaks. but however sideloaded users should skip this one.
 
-**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 5+ additional tweaks! **YTDisableHighContrastUI**, **YTDisableHighContrastUIColors**, **YTNoHeatWaves**, **YTNoUpdateMenu** & **~~YTShortsProgress~~**.
+**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 5+ additional tweaks! **YTDisableHighContrastUI**, **YTDisableHighContrastUIColors**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **~~YTShortsProgress~~** & YTNoIndicator.
 
 ~~**uYouPlusLegacy:** qnblackcat's uYouPlus Mod but only should work with older YouTube versions of the app. **(Not Released at the moment)**~~
 
@@ -62,6 +62,6 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 ### Disclaimer 2: if uYouPlusLegacy/uYouPlusExtra crashes then show me the crash log of the app and I'll see if i can fix it.
 
 ### Updated Repository
-- Recently Updated this on October 2nd 2022!
-- Updated arichorn's uYouPlusExtra to 17.38.10 (F1) with crash fixes
-- fixed more grammer mistakes
+- Recently Updated this on October 5th 2022!
+- Updated all the downloads with the latest version of YouTube!
+- and did fix more grammer mistakes
