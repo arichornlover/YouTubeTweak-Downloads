@@ -19,7 +19,7 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.40.5-2.1-(263)/uYouPlusExtra_17.40.5_2.1_F3.ipa) | YouTube | v17.40.5 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.40.5-2.1-(264)/uYouPlusExtra_17.40.5_2.1_F3.ipa) | YouTube | v17.40.5 | v2.1 | uYouPlusExtra | arichorn | IPA |
 
 ## CercubePlus Downloads
    | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
@@ -38,7 +38,7 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/2wr7y4zy) | v2.1 | v17.40.5 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct Download](https://tinyurl.com/556y5t5z) | v2.1 | v17.40.5 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
@@ -63,5 +63,15 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 
 ### Updated Repository
 - Recently Updated this on October 15th 2022!
-- Updated Releases of uYouPlus by arichorn + qnblackcat
-- Updated uYouPlusExtra's Sections in newest release (Improvements)
+- Support the Developers 💖
+- fixed incorrect download link for uYouPlusExtra
+
+## Support The Developers
+- MiRO92: https://github.com/MiRO92/uYou-for-YouTube#support
+- Poomsmart: https://poomsmart.github.io
+- level3tjg: https://ko-fi.com/level3tjg
+- BandarHL: https://www.paypal.com/paypalme/BandarHL
+- julioverne: https://www.patreon.com/julioverne
+- Galactic-dev:
+  - Paypal: https://www.paypal.com/paypalme/DBrett684
+  - Venmo: https://venmo.com/u/DavidBrett
