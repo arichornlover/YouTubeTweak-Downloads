@@ -8,7 +8,7 @@ need help installing & using Altstore? then go check out these websites for
 (https://faq.altstore.io/getting-started/how-to-install-altstore-windows)
 (https://faq.altstore.io/how-to-use-altstore/your-altstore)
 
-## uYouPlus Downloads
+## uYou/uYouPlus Downloads
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
    | [Direct Download](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYou | MiRO92 | IPA |
@@ -19,18 +19,19 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.40.5-2.1-(264)/uYouPlusExtra_17.40.5_2.1_F3.ipa) | YouTube | v17.40.5 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.41.2-2.1-(275)/uYouPlusExtra_17.41.2_2.1_F2.ipa) | YouTube | v17.41.2 | v2.1 | uYouPlusExtra | arichorn | IPA |
 
 ## CercubePlus Downloads
    | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
    | [Direct Download](https://github.com/arichorn/CercubePlusExtra/releases/download/v17.37.3-5.3.11-(19)/CercubePlusExtra_17.37.3_5.3.11.ipa) | YouTube | v17.37.3 | v5.3.11 | CercubePlusExtra | arichorn | IPA |
 
-### 📲✔️ Direct-Sideload Versions 📲✔️
+### 📲✔️ Direct-App-Sideload Versions 📲✔️
 **Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring and for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+/Cercube+.
+**Outdated Meaning:** if you see the text **(OUTDATED)** next to the Release Name then it is not recommended for download. and what Outdated means is like Not Up-To-Date, Broken Stuff, Issues & other stuff that could happen. I will only label them as Outdated if they haven't updated in a year.
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou | MiRO92 | Non-Jailbroken 📲✅ | Altstore
+   | [Direct Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
@@ -38,7 +39,7 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/556y5t5z) | v2.1 | v17.40.5 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct Download](https://tinyurl.com/mr4yuumz) | v2.1 | v17.41.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
@@ -61,10 +62,7 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 
 ### Disclaimer 2: if uYouPlusLegacy/uYouPlusExtra crashes then show me the crash log of the app and I'll see if i can fix it.
 
-### Updated Repository
-- Recently Updated this on October 15th 2022!
-- Support the Developers 💖
-- fixed incorrect download link for uYouPlusExtra
+### uYou Disclaimer: MiRO's uYou v16.42.3-2.1 has not been updated in a year, which means I will be marking this as Deprecated or Outdated. I suggest using uYou+ or uYou+Extra to also remove the YouTube update menu on 16.x.x or older.
 
 ## Support The Developers
 - MiRO92: https://github.com/MiRO92/uYou-for-YouTube#support
@@ -75,3 +73,14 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 - Galactic-dev:
   - Paypal: https://www.paypal.com/paypalme/DBrett684
   - Venmo: https://venmo.com/u/DavidBrett
+
+## Updated Repository
+- Recently Updated this on October 18th 2022!
+- Added Stuff relating to apps like uYou to be Outdated.
+- Fixed Grammer Mistakes
+- uYouPlusExtra 17.41.2-2.1-F2 Patch Notes:
+  - gave the ability to update uYouPlusExtra in the Settings Section "uYouPlus Essential" (Release-F1)
+  - you can now search in the "uYouPlus Essential" Section also code was from @PoomSmart's YTABConfig Tweak! (Release-F1)
+  - Modified and Removed iOS 13 support on uYouPlusExtra (Release-F2)
+  - YouPiP Button Fixed by PoomSmart (Release-F2)
+  - YTABConfig A/B Section not working ⚠️ (Release-F1+F2)
