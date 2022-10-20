@@ -15,36 +15,41 @@ need help installing & using Altstore? then go check out these websites for
    
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.40.5-2.1/uYouPlus_17.40.5_2.1.ipa) | YouTube | v17.40.5 | v2.1 | uYouPlus | qnblackcat | IPA |
+   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.41.2-2.1/uYouPlus_17.41.2_2.1.ipa) | YouTube | v17.41.2 | v2.1 | uYouPlus | qnblackcat | IPA |
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.41.2-2.1-(275)/uYouPlusExtra_17.41.2_2.1_F2.ipa) | YouTube | v17.41.2 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.41.2-2.1-(276)/uYouPlusExtra_17.41.2_2.1_F3.ipa) | YouTube | v17.41.2 | v2.1 | uYouPlusExtra | arichorn | IPA |
 
-## CercubePlus Downloads
+## Cercube/CercubePlus Downloads
    | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/CercubePlusExtra/releases/download/v17.37.3-5.3.11-(19)/CercubePlusExtra_17.37.3_5.3.11.ipa) | YouTube | v17.37.3 | v5.3.11 | CercubePlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/qnblackcat/CercubePlus/releases/download/v17.41.2-5.3.11/CercubePlus_17.41.2_5.3.11.ipa) | YouTube | v17.41.2 | v5.3.11 | CercubePlus | qnblackcat | IPA |
+   
+   | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://github.com/arichorn/CercubePlusExtra/releases/download/v17.41.2--(31)/CercubePlusExtra_17.41.2_5.3.11.ipa) | YouTube | v17.41.2 | v5.3.11 | CercubePlusExtra | arichorn | IPA |
 
 ### 📲✔️ Direct-App-Sideload Versions 📲✔️
 **Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring and for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+/Cercube+.
+
 **Outdated Meaning:** if you see the text **(OUTDATED)** next to the Release Name then it is not recommended for download. and what Outdated means is like Not Up-To-Date, Broken Stuff, Issues & other stuff that could happen. I will only label them as Outdated if they haven't updated in a year.
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/mr6r7z7r) | v2.1 | v17.40.5 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/mr6r7z7r) | v2.1 | v17.41.2 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct Download](https://tinyurl.com/mr4yuumz) | v2.1 | v17.41.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/3njzhvhk) | v2.1 | v17.41.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 
 ### 🚫 Jailbreak Versions 🚫
 uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
    | Download Link | Deb Version | App Version | Release Name | Released By | App Safety | App Type |
-   |-------------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
+   |----------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
    | [Download](https://www.ios-repo-updates.com/repository/ichitaso-repository/package/com.ichitaso.uyouplus) | 1.0.7 | v17.17.4-v17.29.3 | uYouPlus-For-JB | ichitaso | Jailbroken 📵❎ | Cydia
 
 ### About the YouTube Tweaks.
@@ -75,12 +80,8 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on October 18th 2022!
-- Added Stuff relating to apps like uYou to be Outdated.
+- Recently Updated this on October 19th 2022!
+- Added Proper Cercube/CercubePlus Downloads for non-uYou users
+- uYouPlus 17.41.2-2.1 Release
+- uYouPlusExtra 17.41.2-2.1-F3 Released
 - Fixed Grammer Mistakes
-- uYouPlusExtra 17.41.2-2.1-F2 Patch Notes:
-  - gave the ability to update uYouPlusExtra in the Settings Section "uYouPlus Essential" (Release-F1)
-  - you can now search in the "uYouPlus Essential" Section also code was from @PoomSmart's YTABConfig Tweak! (Release-F1)
-  - Modified and Removed iOS 13 support on uYouPlusExtra (Release-F2)
-  - YouPiP Button Fixed by PoomSmart (Release-F2)
-  - YTABConfig A/B Section not working ⚠️ (Release-F1+F2)
