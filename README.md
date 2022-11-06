@@ -20,11 +20,11 @@ need help installing & using Altstore? then go check out these websites for
    
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.42.7-2.1/uYouPlus_17.42.7_2.1.ipa) | YouTube | v17.42.7 | v2.1 | uYouPlus | qnblackcat | IPA |
+   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.43.1-2.1/uYouPlus_17.43.1_2.1.ipa) | YouTube | v17.43.1 | v2.1 | uYouPlus | qnblackcat | IPA |
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.43.1-2.1-(345)/uYouPlusExtra_17.43.1_2.1_F2.ipa) | YouTube | v17.43.1 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.43.1-2.1-(365)/uYouPlusExtra_17.43.1_2.1_F3.ipa) | YouTube | v17.43.1 | v2.1 | uYouPlusExtra | arichorn | IPA |
 </details>
 
 <details>
@@ -32,7 +32,7 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 4th 2022 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 6th 2022 |
 </details>
 
 <details>
@@ -50,16 +50,17 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/4j5nyb6z) | v2.1 | v17.42.7 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/vfm32bjy) | v2.1 | v17.43.1 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/ycknuvn5) | v2.1 | v17.43.1 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/4jbrsekx) | v2.1 | v17.43.1 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 </details>
 
 <details>
   <summary>📲🚫uYouPlus Jailbroken Download(s)📲🚫</summary>
-uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer.
+uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.30.1-newer due to a ton of changes to the code in the App.
+  
    | Download Link | Deb Version | App Version | Release Name | Released By | App Safety | App Type |
    |----------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
    | [Download](https://www.ios-repo-updates.com/repository/ichitaso-repository/package/com.ichitaso.uyouplus) | 1.0.7 | v17.17.4-v17.29.3 | uYouPlus-For-JB | ichitaso | Jailbroken 📵❎ | Cydia
@@ -97,7 +98,7 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on November 4th 2022!
-- Brought uYouPlusLegacy Support for Altstore Users
-- arichorn/uYouPlusExtra 17.43.1-2.1-F2 Release
+- Recently Updated this on November 6th 2022!
+- qnblackcat/uYouPlus 17.43.1-2.1 Release
+- arichorn/uYouPlusExtra 17.43.1-2.1-F3 Release
 - Fixed Grammer Mistakes
