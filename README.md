@@ -32,7 +32,7 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 6th 2022 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 10th 2022 |
 </details>
 
 <details>
@@ -86,6 +86,31 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
 **uYou Disclaimer:** MiRO's uYou v16.42.3-2.1 has not been updated in a year which means there will be issues so I will be marking this as Deprecated or Outdated. I suggest using uYouPlusExtra Legacy since that release always update if there are any issuea.
 
 ----------------------------------
+## uYouPlus-Downloads Status
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2014.0%2B-yellow" alt="Badge"/>
+    <a href="https://github.com/arichorn/uYouPlus-Downloads/wiki/FAQ"><img src="https://img.shields.io/badge/Question%3F-FAQ-yellow" alt="Badge"></img></a>
+    <a href="https://github.com/arichorn/uYouPlus-Downloads/wiki/FAQ"><img src="https://custom-icon-badges.demolab.com/badge/translate-blue.svg?logo=translate&logoColor=white" alt="Badge"></img></a>
+    
+
+    
+</p>
+
+<p align="center">
+    <a href="https://github.com/arichorn/uYouPlus-Downloads/releases/latest"><img src="https://img.shields.io/github/downloads/arichorn/uYouPlus/total?label=Download" alt="Badge"></img></a>
+    <a href="https://github.com/arichorn/uYouPlus-Downloads/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/arichorn/uYouPlus-Downloads?logo=history&logoColor=white&label=Last commit" alt="Badge"></img></a>
+    <a href="https://github.com/arichorn/uYouPlus-Downloads/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/arichorn/uYouPlus-Downloads?logo=issue-opened&label=Issues" alt="Badge"></img></a>
+
+</p>
+
+<p align="center">
+   <img src="https://img.shields.io/github/stars/arichorn/uYouPlus-Downloads?style=social" alt="Badge"/>
+   <img src="https://img.shields.io/github/forks/arichorn/uYouPlus-Downloads?style=social" alt="Badge"/>
+   <a href="https://github.com/arichorn/uYouPlus-Downloads#support-the-developers"><img src="https://img.shields.io/badge/-Support-lightgrey?style=social&logo=paypal" alt="Badge"></img></a>
+</p>
+
+----------------------------------
 
 ## Support The Developers
 - MiRO92: https://github.com/MiRO92/uYou-for-YouTube#support
@@ -98,7 +123,5 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on November 6th 2022!
-- qnblackcat/uYouPlus 17.43.1-2.1 Release
-- arichorn/uYouPlusExtra 17.43.1-2.1-F3 Release
-- Fixed Grammer Mistakes
+- Recently Updated this on November 10th 2022!
+- Fixed Grammer/Typo Mistakes
