@@ -24,7 +24,7 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.43.1-2.1-(365)/uYouPlusExtra_17.43.1_2.1_F3.ipa) | YouTube | v17.43.1 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](github.com/arichorn/uYouPlusExtra/releases/download/v17.46.4-2.1-(388)/uYouPlusExtra_17.46.4_2.1.ipa) | YouTube | v17.46.4 | v2.1 | uYouPlusExtra | arichorn | IPA |
 </details>
 
 <details>
@@ -32,7 +32,7 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 10th 2022 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 17th 2022 |
 </details>
 
 <details>
@@ -54,7 +54,7 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/4jbrsekx) | v2.1 | v17.43.1 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/ycybrakn) | v2.1 | v17.46.4 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 </details>
 
 <details>
@@ -123,5 +123,7 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on November 10th 2022!
+- Recently Updated this on November 23rd 2022!
+- Updated arichorn/uYouPlusExtra from 17.43.1 to 17.46.4
+- Updated uYouPlus 16.42.3 ipa to Release F5!
 - Fixed Grammer/Typo Mistakes
