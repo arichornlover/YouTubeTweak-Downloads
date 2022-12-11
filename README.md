@@ -24,29 +24,29 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](github.com/arichorn/uYouPlusExtra/releases/download/v17.46.4-2.1-(388)/uYouPlusExtra_17.46.4_2.1.ipa) | YouTube | v17.46.4 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.48.2-2.1-(453)/uYouPlusExtra_17.48.2_2.1.ipa) | YouTube | v17.48.2 | v2.1 | uYouPlusExtra | arichorn | IPA |
 </details>
 
 <details>
   <summary>uYouPlus Legacy Download(s)</summary>
   
-   | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(328)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | November 17th 2022 |
+   | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | IPA Release Number |
+   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(409)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | December 5th 2022 | Release F8 |
 </details>
 
 <details>
   <summary>📲✔️Sideload-Into-App Download(s)📲✔️</summary>
-**Sideloading (No Jailbreak):** Download one of the IPA files from here and then plug in your device into your Mac/Windows and install the app using Altstore/Sideloadly and then after that you might have to refresh it every week to prevent it from expiring and for users who don't tend to jailbreak their device. the safer way of installing uYou/uYou+/Cercube+.
+**Sideloading (No Jailbreak):** [Altstore Sideloading Guide](https://www.reddit.com/r/AltStore/comments/xlkapp/beginners_altstore_sideloading_guide)
 
-**Outdated Meaning:** if you see the text **(OUTDATED)** next to the Release Name then it is not recommended for download. and what Outdated means is like Not Up-To-Date, Broken Stuff, Issues & other stuff that could happen. I will only label them as Outdated if they haven't updated in a year.
+**Outdated Meaning:** if you see the text **(OUTDATED)** next to the Release Name then it is not best to download. like since it is unstable and other stuff like crashing may happen. I will only label them as Outdated if they haven't updated in a while.
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
    | [Direct-App Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/4c2rdr5b) | v2.1 | v16.42.3 | uYouPlusLegacy | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/7vaa46ju) | v2.1 | v16.42.3 | uYouPlusLegacy | arichorn | Non-Jailbroken 📲✅ | Altstore
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
@@ -54,7 +54,7 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/ycybrakn) | v2.1 | v17.46.4 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/yy6wcv45) | v2.1 | v17.48.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 </details>
 
 <details>
@@ -123,7 +123,7 @@ uYouPlus-For-JB might be a little outdated as if it doesn't support YouTube v17.
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on November 23rd 2022!
-- Updated arichorn/uYouPlusExtra from 17.43.1 to 17.46.4
-- Updated uYouPlus 16.42.3 ipa to Release F5!
-- Fixed Grammer/Typo Mistakes
+- Recently Updated this on December 11th 2022!
+- Updated arichorn/uYouPlusExtra from 17.46.4 to 17.48.2
+- Updated uYouPlus 16.42.3 ipa to Release F8!
+- Fixed some Grammer/Typo Mistakes
