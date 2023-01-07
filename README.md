@@ -20,19 +20,24 @@ need help installing & using Altstore? then go check out these websites for
    
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.48.2-2.1/uYouPlus_17.48.2_2.1.ipa) | YouTube | v17.48.2 | v2.1 | uYouPlus | qnblackcat | IPA |
+   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.3(1)/uYouPlus_17.49.6_2.3.1.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlus | qnblackcat | IPA |
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.4-2.1-(469)/uYouPlusExtra_17.49.4_2.1.ipa) | YouTube | v17.49.4 | v2.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.6-2.3(1)/uYouPlusExtra_17.49.6_2.3.1.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlusExtra | arichorn | IPA |    
 </details>
 
 <details>
-  <summary>uYouPlus Legacy Download(s)</summary>
+  <summary>uYouPlusExtra Long-Term Support Download(s)</summary>
   
-   | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | IPA Release Number |
+| Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(409)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | December 5th 2022 | Release F8 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.6-2.3(1)/uYouPlusExtra_17.49.6_2.3.1.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlusExtra | arichorn | IPA | January 7th 2023 | LTS Release 1 |
+   
+| Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
+   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(547)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | December 30th 2022 | LTS Release 11 |
+   
 </details>
 
 <details>
@@ -46,15 +51,15 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/7vaa46ju) | v2.1 | v16.42.3 | uYouPlusLegacy | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/7vaa46ju) | v2.1 | v16.42.3 | uYouPlusExtra LTS | arichorn | Non-Jailbroken 📲✅ | Altstore
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/59kjzeth) | v2.1 | v17.48.2 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/5d9u8uw9) | v2.3~1 | v17.49.6 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/mr3xdmyj) | v2.1 | v17.49.4 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/mwtvc5dr) | v2.3~1 | v17.49.6 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
 </details>
 
 <details>
@@ -64,11 +69,6 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
    | Download Link | Deb Version | App Version | Release Name | Released By | App Safety | App Type |
    |----------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
    | [Download](https://www.ios-repo-updates.com/repository/ichitaso-repository/package/com.ichitaso.uyouplus) | 1.0.7 | v17.17.4-v17.29.3 | uYouPlus-For-JB | ichitaso | Jailbroken 📵❎ | Cydia
-   
-   | Download Link | Deb Version | App Version | Release Name | Released By | App Safety | App Type |
-   |----------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
-   | [Download](https://tinyurl.com/4jympdum) | N/A | v17.48.2 | uYouPlus | qnblackcat | Jailbroken 📵❎ | Trollstore
-</details>
 
 ### About the YouTube Tweaks.
 **uYou:** the original developer of uYou was the tweak developer MiRO92. a developer that's really good with other sideloaded or other jailbroken tweaks that they made.
@@ -127,9 +127,12 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on December 15th 2022!
-- Added New Jailbreak uYouPlus download! - Trollstore!
-- Updated arichorn/uYouPlusExtra from 17.48.2 to 17.49.4
-- Updated qnblackcat/uYouPlus from 17.43.1 to 17.48.2
-- Updated uYouPlus 16.42.3 ipa to Release F9!
+- Recently Updated this on January 7th 2023!
+- Updated from uYou ‘2.1‘ to ‘2.3~1‘
+- Updated arichorn/uYouPlusExtra from ‘17.49.4-2.1‘ to ‘17.49.6-2.3~1‘
+- Updated qnblackcat/uYouPlus from ‘17.48.2-2.1‘ to ‘17.49.6-2.3~1‘
+- Added New Section for LTS Releases (replaces uYouPlusLegacy Downloads)
+- Updated ‘uYouPlusExtra 16.42.3 LTS‘ ipa to Release F11!
+- Added ‘uYouPlusExtra 17.49.6 LTS‘ ipa to Release F1!
+- Removed Jailbreak uYouPlus download - Trollstore
 - Improved Spelling and Fixed some Grammer/Typo Mistakes
