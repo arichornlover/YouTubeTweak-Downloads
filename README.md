@@ -20,7 +20,7 @@ need help installing & using Altstore? then go check out these websites for
    
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v17.49.6-2.3(1)/uYouPlus_17.49.6_2.3.1.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlus | qnblackcat | IPA |
+   | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa) | YouTube | v18.01.6 | v2.3~1 | uYouPlus | qnblackcat | IPA |
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
@@ -36,7 +36,7 @@ need help installing & using Altstore? then go check out these websites for
    
 | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-(547)/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | December 30th 2022 | LTS Release 11 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-F13/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | January 20th 2023 | LTS Release 13 |
    
 </details>
 
@@ -44,18 +44,18 @@ need help installing & using Altstore? then go check out these websites for
   <summary>📲✔️Sideload-Into-App Download(s)📲✔️</summary>
 **Sideloading (No Jailbreak):** [Altstore Sideloading Guide](https://www.reddit.com/r/AltStore/comments/xlkapp/beginners_altstore_sideloading_guide)
 
-**Outdated Meaning:** if you see the text **(OUTDATED)** next to the Release Name then it is not best to download. like since it is unstable and other stuff like crashing may happen. I will only label them as Outdated if they haven't updated in a while.
+**Outdated Meaning:** if you see the text **(OUTDATED VERSION)** next to the Release Name then that indicates not to download it since its just regular uYou and its pretty buggy on what you can do.
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED VERSION) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/7vaa46ju) | v2.1 | v16.42.3 | uYouPlusExtra LTS | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/ycxybb6y) | v2.1 | v16.42.3 | uYouPlusExtra LTS | arichorn | Non-Jailbroken 📲✅ | Altstore
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/5d9u8uw9) | v2.3~1 | v17.49.6 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/bdfmk8em) | v2.3~1 | v18.01.6 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
 
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
@@ -85,12 +85,12 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
 
 **Disclaimer 1:** uYouPlus-For-JB has not updated in a while so if there are any issues that YouTube changed using their servers (as usual) then contact ichitaso to update the repo.
 
-**Disclaimer 2:** if uYouPlusLegacy/uYouPlusExtra crashes then show me the crash log of the app and I'll see if i can fix it.
+**Disclaimer 2:** if uYouPlusExtra/uYouPlusExtraLTS crashes then show me the crash log of the app and I'll see if i can fix it.
 
-**uYou Disclaimer:** MiRO's uYou v16.42.3-2.1 has not been updated in a year which means there will be tons of bugs caused by a lot of YouTube changes so I will be marking this as Deprecated or Outdated. I suggest using uYouPlusExtra Legacy since it may help if there are any issues in future versions.
+**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to 2.3~1 as of Early 2023 which means some issues you had with uYou 2.1 should be resolved. but I can still suggest and update uYouPlusExtra LTS on uYou 2.1 until 16.42.3 ends support and since it may help if there are any issues in future YouTube or uYou versions.
 
 ----------------------------------
-## uYouPlus-Downloads Status
+## uYouPlusExtra-Downloads Status
 
 <p align="center">
     <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2014.0%2B-yellow" alt="Badge"/>
@@ -127,12 +127,8 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on January 7th 2023!
-- Updated from uYou ‘2.1‘ to ‘2.3~1‘
-- Updated arichorn/uYouPlusExtra from ‘17.49.4-2.1‘ to ‘17.49.6-2.3~1‘
-- Updated qnblackcat/uYouPlus from ‘17.48.2-2.1‘ to ‘17.49.6-2.3~1‘
-- Added New Section for LTS Releases (replaces uYouPlusLegacy Downloads)
-- Updated ‘uYouPlusExtra 16.42.3 LTS‘ ipa to Release F11!
-- Added ‘uYouPlusExtra 17.49.6 LTS‘ ipa to Release F1!
-- Removed Jailbreak uYouPlus download - Trollstore
-- Improved Spelling and Fixed some Grammer/Typo Mistakes
+- Recently Updated this on January 21st 2023!
+- Updated qnblackcat/uYouPlus from ‘17.49.6-2.3~1‘ to ‘18.01.6-2.3~1‘
+- Updated ‘arichorn/uYouPlusExtra 16.42.3 LTS‘ ipa to Release F13!
+- Kept ‘uYouPlusExtra 17.49.6 LTS‘ ipa to Release F1! (no new LTS F2 Release for this yet)
+- Changed uYou Disclaier and even improved some Spelling some Grammer/Typo Mistakes
