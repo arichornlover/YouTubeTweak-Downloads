@@ -24,7 +24,7 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.03.3-2.3.1/uYouPlusExtra_18.03.3_2.3.1.ipa) | YouTube | v18.03.3 | v2.3~1 | uYouPlusExtra | arichorn | IPA |    
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.05.2-2.3.1/uYouPlusExtra_18.05.2_2.3.1.ipa) | YouTube | v18.05.2 | v2.3~1 | uYouPlusExtra | arichorn | IPA |    
 </details>
 
 <details>
@@ -32,11 +32,11 @@ need help installing & using Altstore? then go check out these websites for
   
 | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.6-2.3.1-F2/uYouPlusExtra_17.49.6_2.3.1.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlusExtra | arichorn | IPA | January 28th 2023 | LTS Release 2 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.6-2.3.1-F3/uYouPlusExtra_17.49.6_2.3.1.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlusExtra | arichorn | IPA | February 6th 2023 | LTS Release 3 |
    
 | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-F14/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | January 28th 2023 | LTS Release 14 |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-F15/uYouPlusExtra_16.42.3_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | February 6th 2023 | LTS Release 15 |
    
 </details>
 
@@ -55,15 +55,15 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/25m9rp89) | v2.3~1 | v18.03.3 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/5aypdvc8) | v2.3~1 | v18.05.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/4jnpztds) | v2.1 | v16.42.3 | uYouPlusExtra LTS 1 | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/mrbaypbf) | v2.1 | v16.42.3 | uYouPlusExtra LTS 15 | arichorn | Non-Jailbroken 📲✅ | Altstore
   
    | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/yc3rwra3) | v2.3~1 | v17.49.6 | uYouPlusExtra LTS 2 | arichorn | Non-Jailbroken 📲✅ | Altstore
+   | [Direct-App Download](https://tinyurl.com/28xf9b4p) | v2.3~1 | v17.49.6 | uYouPlusExtra LTS 3 | arichorn | Non-Jailbroken 📲✅ | Altstore
 </details>
 
 <details>
@@ -81,7 +81,7 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
 
 **uYouPlus-For-JB:** this version is meant to be for Jailbroken users, this version of uYouPlus was modified by ichitaso. a unique developer thats pretty good at making jailbreak tweaks. but however sideloaded users should skip this one.
 
-**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 7+ additional tweaks! **LowContrastMode**, **LowContrastModeColors**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **iPhoneLayout**, **HideYouTubeLogo** **& more.**
+**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 6+ additional tweaks! **LowContrastMode**, **LowContrastModeColors**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, **& more.**
   
 **uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but this version does get the ability to update to any of the newest YouTube Versions. LTS Releases always adds uYouPlus and uYouPlusExtra Features or also improvements if needed in each release. and keep that in mind that these releases will only stay on that version where uYou was released on!
 
@@ -131,8 +131,8 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on January 28th 2023!
-- Updated ‘arichorn/uYouPlusExtra‘ ipa to v18.03.3-2.3~1!
-- Updated ‘arichorn/uYouPlusExtra 16.42.3 LTS‘ ipa to Release F14!
-- Updated ‘arichorn/uYouPlusExtra 17.49.6 LTS‘ ipa to Release F2!
+- Recently Updated this on February 6th 2023!
+- Updated ‘arichorn/uYouPlusExtra‘ ipa to v18.05.2-2.3~1!
+- Updated ‘arichorn/uYouPlusExtra 16.42.3 LTS‘ ipa to Release F15!
+- Updated ‘arichorn/uYouPlusExtra 17.49.6 LTS‘ ipa to Release F3!
 - Fixed Grammer Mistakes
