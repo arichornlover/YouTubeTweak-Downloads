@@ -10,25 +10,37 @@ need help installing & using Altstore? then go check out these websites for
 
 ----------------------------------
 
-## YouTube IPA Downloads
+## YouTube Tweak IPA/DEB Downloads
 <details> 
-  <summary>uYou and uYouPlus Download(s)</summary>
+  <summary>uYou, Cercube, uYouPlus & CercubePlusExtra Download(s)</summary>
   
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa) | YouTube | v16.42.3 | v2.1 | uYou | MiRO92 | IPA |
-   
+   | [Direct Download](https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_18.14.1_uYou_3.0.ipa) | YouTube | v18.14.1 | v3.0 | uYou | MiRO92 | IPA |
+
+   | Download Link | App Name | Cercube Version | Release Name | Released By | File Type |
+   |-------------|:------:|:-------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://dl.dropboxusercontent.com/s/b01erqbp3ajc5e2/me.alfhaily.cercube_5.3.11_iphoneos-arm.deb) | YouTube | v5.3.11 | Cercube | Majd Alfhaily | DEB |
+
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
    | [Direct Download](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa) | YouTube | v18.08.1 | v2.3~1 | uYouPlus | qnblackcat | IPA |
  
    | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.08.1-2.3.1/uYouPlusExtra_18.08.1_2.3.1.ipa) | YouTube | v18.08.1 | v2.3~1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.11.2-2.3.1/uYouPlusExtra_18.11.2_2.3.1.ipa) | YouTube | v18.11.2 | v2.3~1 | uYouPlusExtra | arichorn | IPA |
+
+   | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://github.com/arichorn/CercubePlusExtra/releases/download/v18.15.1-5.3.13/CercubePlusExtra_18.15.1_5.3.13.ipa) | YouTube | v18.15.1 | v5.3.13 | CercubePlusExtra | arichorn | IPA |
 </details>
 
 <details>
   <summary>uYouPlusExtra Long-Term Support Download(s)</summary>
+
+| Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
+   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.14.1-3.0/uYouPlusExtra_18.14.1_3.0.ipa) | YouTube | v18.14.1 | v3.0 | uYouPlusExtra | arichorn | IPA | April 16th 2023 | LTS Release 1 |
   
 | Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
@@ -41,49 +53,50 @@ need help installing & using Altstore? then go check out these websites for
 
 <details>
   <summary>📲✔️Sideload-Into-App Download(s)📲✔️</summary>
+
 **Sideloading (No Jailbreak):** [Altstore Sideloading Guide](https://www.reddit.com/r/AltStore/comments/xlkapp/beginners_altstore_sideloading_guide)
 
-**Outdated Meaning:** if you see the text **(OUTDATED RELEASE)** next to the Release Name then that indicates not to download it because its just there for users who doesn't want any additonal features since its just regular uYou and even though this one is pretty buggy on what you can do.
-   | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/2spf7u53) | v2.1 | v16.42.3 | uYou (OUTDATED RELEASE) | MiRO92 | Non-Jailbroken 📲✅ | Altstore
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/yudck9dr) | v3.0 | v18.14.1 | uYou | MiRO92 | Non-Jailbroken 📲✅ | Supported | Altstore
 
-   | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/2p8jnjsh) | v2.3~1 | v18.08.1 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Altstore
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/2p8jnjsh) | v2.3~1 | v18.08.1 | uYouPlus | qnblackcat | Non-Jailbroken 📲✅ | Not Supported | Altstore
   
-   | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/2p94t5sn) | v2.3~1 | v18.08.1 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Altstore
-  
-   | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/mvt6vayz) | v2.1 | v16.42.3 | uYouPlusExtra LTS 16 | arichorn | Non-Jailbroken 📲✅ | Altstore
-  
-   | Download Link | uYou Version | App Version | Release Name | Released By | App Safety | App Type |
-   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/3f6r7nt5) | v2.3~1 | v17.49.6 | uYouPlusExtra LTS 4 | arichorn | Non-Jailbroken 📲✅ | Altstore
-</details>
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/3txask4b) | v2.3~1 | v18.11.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
+ 
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/y66xbr65) | v3.0 | v18.14.1 | uYouPlusExtra [LTS 1] | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
+ 
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/3f6r7nt5) | v2.3~1 | v17.49.6 | uYouPlusExtra [LTS 4] | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
 
-<details>
-  <summary>📲🚫uYouPlus Jailbroken Download(s)📲🚫</summary>
-uYouPlus-For-JB might be a little outdated and may not be compatible with YouTube v17.30.1-newer due to a ton of changes to the code in the App.
-  
-   | Download Link | Deb Version | App Version | Release Name | Released By | App Safety | App Type |
-   |----------|:---------:|:--------------:|:------------:|:-----------:|:-------------:|:-------:|
-   | [Download](https://www.ios-repo-updates.com/repository/ichitaso-repository/package/com.ichitaso.uyouplus) | 1.0.7 | v17.17.4-v17.29.3 | uYouPlus-For-JB | ichitaso | Jailbroken 📵❎ | Cydia
+   | Download Link | uYou Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/mvt6vayz) | v2.1 | v16.42.3 | uYouPlusExtra [LTS 16] | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
+ 
+   | Download Link | Cercube Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
+   |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
+   | [Direct-App Download](https://tinyurl.com/5fnavdux) | v5.3.13 | v18.15.1 | CercubePlusExtra | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
 </details>
 
 ### About the YouTube Tweaks.
 **uYou:** the original developer of uYou was the tweak developer MiRO92. a developer that's really good with other sideloaded or other jailbroken tweaks that they made.
 
-**uYouPlus:** this version is like MiRO's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, PoomSmart, Galactic-Dev Level3tjg, BandarHL and more.
+**Cercube** the original developer of Cercube was Majd Alfhaily, a well known developer that made the Cercube Tweak. can't confirm if this tweak will get updates and fixes but we'll see if Cercube will survive in the future.
 
-**uYouPlus-For-JB:** this version is meant to be for Jailbroken users, this version of uYouPlus was modified by ichitaso. a unique developer thats pretty good at making jailbreak tweaks. but however sideloaded users should skip this one.
+**uYouPlus:** this version is like MiRO's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, Galactic-Dev Level3tjg, BandarHL and more.
 
 **uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 6+ additional tweaks! **LowContrastMode**, **LowContrastModeColors**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, **& more.**
   
-**uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but this version does not get the ability to update to any of the newest YouTube Versions. LTS Releases always adds uYouPlus and uYouPlusExtra Features or also improvements if needed in each release. and keep that in mind that these releases will only stay on that version where uYou was released on!
+**uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but except these version(s) won't ever update to the newest YouTube Versions. LTS Releases always adds uYouPlus/uYouPlusExtra Features and also improvements if needed in each release. and keep that in mind that these releases will stay on that version until Long-Term Support Ends on it!
+
+**CercubePlusExtra:** a tweak that existed before uYouPlusExtra. and a tweak that continues the legacy of CercubePlus. this YouTube Tweak adds additional features/improvements to make CercubePlus even greater then it was before!
 
 ----------------------------------
 
@@ -91,7 +104,7 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
 
 **Disclaimer 2:** if uYouPlusExtra/uYouPlusExtraLTS crashes then show me the crash log of the app and I'll see if i can fix it.
 
-**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to 2.3~1 as of Early 2023 which means some issues you had with uYou 2.1 should be resolved. but I can still suggest and update uYouPlusExtra LTS on uYou 2.1 until 16.42.3 ends support and since it may help if there are any issues in future YouTube or uYou versions.
+**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to `v3.0` as of `April 16th 2023` which means most issues you had with uYou 2.1 have been finally fixed! but I do suggest using uYouPlusExtra LTS on uYou 3.0 for some additional fixes until I end `v18.14.1-3.0` Long-Term Support in the future.
 
 ----------------------------------
 ## uYouPlusExtra-Downloads Status
@@ -122,7 +135,6 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
 
 ## Support The Developers
 - MiRO92: https://github.com/MiRO92/uYou-for-YouTube#support
-- Poomsmart: https://poomsmart.github.io
 - level3tjg: https://ko-fi.com/level3tjg
 - BandarHL: https://www.paypal.com/paypalme/BandarHL
 - julioverne: https://www.patreon.com/julioverne
@@ -131,8 +143,9 @@ uYouPlus-For-JB might be a little outdated and may not be compatible with YouTub
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on March 1st 2023!
-- Updated `qnblackcat/uYouPlus` ipa to `v18.08.1-2.3~1`!
-- Updated `arichorn/uYouPlusExtra` ipa to `v18.08.1-2.3~1`!
-- Updated `arichorn/uYouPlusExtra` Long-term Support ipa to `16.42.3-2.1-F16`!
-- Updated `arichorn/uYouPlusExtra` Long-term Support ipa to `17.49.6-2.3~1-F4`!
+- Recently Updated this on April 22nd 2023!
+- Updated `MiRO92's uYou` ipa to `v3.0`!
+- Updated `arichorn/uYouPlusExtra` ipa to `v18.11.2-2.3~1`!
+- Added `arichorn/CercubePlusExtra` ipa `v18.15.1-5.3.13`!
+- Added `arichorn/uYouPlusExtra` Long-term Support ipa `18.14.1-3.0-F1`!
+- Removed `uYouPlus-For-JB` downloads!
