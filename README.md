@@ -24,15 +24,19 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | App Name | App Version | Cercube Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/CercubePlusExtra/releases/download/v18.16.2-5.3.13/CercubePlusExtra_18.16.2_5.3.13.ipa) | YouTube | v18.16.2 | v5.3.13 | CercubePlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/YouTubeRebornPlus/releases/download/v18.17.2-5.3.13/CercubePlusExtra_18.17.2_5.3.13.ipa) | YouTube | v18.17.2 | v5.3.13 | CercubePlusExtra (Deprecated) | arichorn | IPA |
 </details>
 
 <details>
-  <summary>Cercube Deb Download(s)</summary>
+  <summary>YouTube Tweak Deb Download(s)</summary>
   
    | Download Link | App Name | Cercube Version | Release Name | Released By | File Type |
    |-------------|:------:|:-------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://dl.dropboxusercontent.com/s/b01erqbp3ajc5e2/me.alfhaily.cercube_5.3.11_iphoneos-arm.deb) | YouTube | v5.3.11 | Cercube | Majd Alfhaily | DEB |
+   | [Direct Download](https://dl.dropboxusercontent.com/s/8xv1vota8elfoml/YouTube.Reborn.v4.0.9.deb) | YouTube | v4.0.9 | YouTube Reborn | LillieH1000 | DEB |
+  
+   | Download Link | App Name | Cercube Version | Release Name | Released By | File Type |
+   |-------------|:------:|:-------:|:---------:|:---------:|:---------:|
+   | [Direct Download](https://dl.dropboxusercontent.com/s/b01erqbp3ajc5e2/me.alfhaily.cercube_5.3.11_iphoneos-arm.deb) | YouTube | v5.3.11 | Cercube (Outdated) | Majd Alfhaily | DEB |
 </details>
 
 <details>
@@ -82,25 +86,29 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | Cercube Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |-------------|:------:|:-------:|:------:|:---------:|:--------------:|:---------:|:---------:|
-   | [Direct-App Download](https://tinyurl.com/ysbzr8ye) | v5.3.13 | v18.16.2 | CercubePlusExtra | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
+   | [Direct-App Download](https://tinyurl.com/bpbxsyu4) | v5.3.13 | v18.17.2 | CercubePlusExtra (Deprecated) | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
 </details>
 
 ### About the YouTube Tweaks.
 **uYou:** the original developer of uYou was the tweak developer MiRO92. a developer that's really good with other sideloaded or other jailbroken tweaks that they made.
 
-**Cercube** the original developer of Cercube was Majd Alfhaily, a well known developer that made the Cercube Tweak. can't confirm if this tweak will get updates and fixes but we'll see if Cercube will survive in the future.
+**Cercube (Outdated):** the original developer of Cercube was **Majd Alfhaily**, a well known developer that made the Cercube Tweak. but sadly this tweak is dead. also tweaks such as **CercubePlusExtra** failed to continue supporting the tweak.
 
-**uYouPlus:** this version is like MiRO's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, Galactic-Dev Level3tjg, BandarHL and more other cool developers.
+**uYouPlus:** this version is like MiRO92's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, Galactic-Dev Level3tjg, BandarHL and more other cool developers.
 
 **uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes 6+ additional tweaks! **LowContrastMode**, **LowContrastModeColors**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, **& more.**
   
 **uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but except these version(s) won't ever update to the newest YouTube Versions. LTS Releases always adds uYouPlus/uYouPlusExtra Features and also improvements if needed in each release. and keep that in mind that these releases will stay on that version until Long-Term Support Ends on it!
 
-**CercubePlusExtra:** a tweak that existed before uYouPlusExtra. and a tweak that continues the legacy of CercubePlus. this YouTube Tweak adds additional features/improvements to make CercubePlus even greater then it was before!
+**YouTubeRebornPlus:** a YouTubeRebornPlus Tweak that improves the original YouTube Reborn Tweak that was made by **LillieH1000** & with the help of Contributors. YouTubeRebornPlus just adds a little bit more customization to the tweak.
+
+**CercubePlusExtra (Deprecated):** a tweak that existed before uYouPlusExtra. and a tweak that continues the legacy of CercubePlus. this YouTube Tweak adds additional features/improvements to make CercubePlus even greater then it was before!.. but sadly CercubePlusExtra has been Deprecated and has been rebranded into **YouTubeRebornPlus**.
 
 ----------------------------------
 
 **uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to `v3.0` as of `April 16th 2023` which means most issues you had with uYou 2.1 have been finally fixed! but I do suggest using qnblackcat's uYouPlus or arichorn's uYouPlusExtra LTS on uYou 3.0 for some additional fixes until I end `v18.14.1-3.0` Long-Term Support in the future.
+
+**Cercube Outdated Disclaimer:** Cercube is outdated. servers are down and the whole tweak is now useless. I really don't recommend cercube but I'll be keeping it around for now just in case if y'all wanted it.
 
 ----------------------------------
 ## uYouPlusExtra-Downloads Status
@@ -139,8 +147,8 @@ need help installing & using Altstore? then go check out these websites for
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on May 3rd 2023!
-- Updated `qnblackcat/uYouPlus` ipa to `v18.14.1-3.0`!
-- Updated `arichorn/uYouPlusExtra` ipa to `v18.14.1-3.0-F2`!
-- Updated `arichorn/uYouPlusExtra` Long-term Support ipa to `v16.42.3-2.1-F17`!
-- Updated `arichorn/CercubePlusExtra` ipa to `v18.16.2-5.3.13`!
+- Recently Updated this on May 12th 2023!
+- Updated `arichorn/CercubePlusExtra` ipa to `v18.17.2-5.3.13`!
+- Added `LillieH1000/YouTube Reborn` Deb.
+- Deprecated `Majd Alfhaily/Cercube` Deb.
+- Deprecated `arichorn/CercubePlusExtra` Repository.
