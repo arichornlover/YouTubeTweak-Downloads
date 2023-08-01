@@ -42,17 +42,17 @@ need help installing & using Altstore? then go check out these websites for
 <details>
   <summary>uYouPlusExtra Long-Term Support Download(s)</summary>
 
-| Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.14.1-3.0-F2/uYouPlusExtra_18.14.1_3.0_F2.ipa) | YouTube | v18.14.1 | v3.0 | uYouPlusExtra | arichorn | IPA | April 27th 2023 | LTS Release 2 |
+| Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
+|---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|:--------------:|:------------------:|
+| [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.14.1-3.0-F2/uYouPlusExtra_18.14.1_3.0_F2.ipa) | YouTube | v18.14.1 | v3.0 | uYouPlusExtra | arichorn | IPA | April 27th 2023 | LTS Release 2 |
   
-| Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.6-2.3.1-F4/uYouPlusExtra_17.49.6_2.3.1_F4.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlusExtra | arichorn | IPA | February 28th 2023 | LTS Release 4 |
+| Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
+|---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|:--------------:|:------------------:|
+| [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v17.49.6-2.3.1-F4/uYouPlusExtra_17.49.6_2.3.1_F4.ipa) | YouTube | v17.49.6 | v2.3~1 | uYouPlusExtra | arichorn | IPA | February 28th 2023 | LTS Release 4 |
    
-| Download Link | App Name | App Version | uYou Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
-   |-------------|:------:|:-------:|:------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-F18/uYouPlusExtra_16.42.3_2.1_F18.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | July 9th 2023 | LTS Release 18 |
+| Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type | IPA Updated On | LTS Release Number |
+|---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|:--------------:|:------------------:|
+| [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v16.42.3-2.1-F18/uYouPlusExtra_16.42.3_2.1_F18.ipa) | YouTube | v16.42.3 | v2.1 | uYouPlusExtra | arichorn | IPA | July 9th 2023 | LTS Release 18 |
 </details>
 
 <details>
@@ -86,13 +86,11 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Direct-App Download](https://tinyurl.com/bpbxsyu4) | v4.2.0 | v18.29.1 | YouTubeRebornPlus | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
+   | [Direct-App Download](https://tinyurl.com/3dpmyynx) | v4.2.0 | v18.29.1 | YouTubeRebornPlus | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
 </details>
 
 ### About the YouTube Tweaks.
 **uYou:** the original developer of uYou was the tweak developer MiRO92.
-
-**Cercube (Outdated):** the original developer of Cercube was **Majd Alfhaily**, a well known developer that made the Cercube Tweak. but sadly this tweak is dead. also tweaks such as **CercubePlusExtra** failed to continue supporting the tweak.
 
 **uYouPlus:** this version is like MiRO92's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, Galactic-Dev Level3tjg, BandarHL and more other cool developers.
 
@@ -100,15 +98,13 @@ need help installing & using Altstore? then go check out these websites for
   
 **uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but except these version(s) won't ever update to the newest YouTube Versions. LTS Releases always adds uYouPlus/uYouPlusExtra Features and also improvements if needed in each release. and keep that in mind that these releases will stay on that version until I end support on it!
 
-**YouTubeRebornPlus:** a YouTubeRebornPlus Tweak that improves the original YouTube Reborn Tweak that was made by **LillieH1000** & with the help of Contributors. YouTubeRebornPlus just adds a little bit more customization to the tweak.
-
-**CercubePlusExtra (Deprecated):** a tweak that existed before uYouPlusExtra. and a tweak that continues the legacy of CercubePlus. this YouTube Tweak adds additional features/improvements to make CercubePlus even greater then it was before!.. but sadly CercubePlusExtra has been Deprecated and has been rebranded into **YouTubeRebornPlus**.
+**YouTubeRebornPlus:** YouTubeRebornPlus is a Tweak that improves the YouTube Reborn Tweak that was made by **LillieH1000** & with the help its Contributors. YouTubeRebornPlus just adds a little bit more to the tweak and other additional features.
 
 ----------------------------------
 
-**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to `v3.0` as of `April 16th 2023` which means most issues you had with uYou 2.1 have been finally fixed! but I do suggest using qnblackcat's uYouPlus or arichorn's uYouPlusExtra LTS on uYou 3.0 for some additional fixes until I end `v18.14.1-3.0` Long-Term Support in the future.
+**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to `v3.0.1` as of `July 23rd 2023` which means the issues you had with uYou 3.0 should be gone now. but I do Recommend using arichorn's uYouPlusExtra Tweak on the latest release for some additional features, fixes and even improvements. don't use qnblackcat's uYouPlus since there is ongoing issues that aren't solved it.
 
-**Cercube Outdated Disclaimer:** Cercube is outdated. servers are down and the whole tweak is now useless. I really don't recommend cercube but I'll be keeping it around for now just in case if y'all wanted it.
+**YouTube Reborn Disclaimer:** I had modified the YouTube Reborn Tweak for the tweak YouTubeRebornPlus because if I didn't update or modify it then the tweak would have gotten a ton of issues.
 
 ----------------------------------
 ## uYouPlusExtra-Downloads Status
