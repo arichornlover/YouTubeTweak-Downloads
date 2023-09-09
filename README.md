@@ -24,11 +24,11 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.33.2-3.0.1/uYouPlusExtra_18.33.2_3.0.1.ipa) | YouTube | v18.33.2 | v3.0.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.34.5-3.0.1/uYouPlusExtra_18.34.5_3.0.1.ipa) | YouTube | v18.34.5 | v3.0.1 | uYouPlusExtra | arichorn | IPA |
 
    | Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/YouTubeRebornPlus/releases/download/v18.29.1-4.2.0/YouTubeRebornPlus_18.29.1_4.2.0.ipa) | YouTube | v18.29.1 | v4.2.0 | YouTubeRebornPlus | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/YouTubeRebornPlus/releases/download/v18.34.5-4.2.1/YouTubeRebornPlus_18.34.5_4.2.1.ipa) | YouTube | v18.34.5 | v4.2.1 | YouTubeRebornPlus | arichorn | IPA |
 </details>
 
 <details>
@@ -40,7 +40,7 @@ need help installing & using Altstore? then go check out these websites for
    
    | Download Link | App Name | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-------------:|:------------:|:-----------:|:---------:|
-   | There is no deb for this version yet. | YouTube | v4.2.0 | YouTube Reborn | LillieH1000 & arichorn | DEB |
+   | There is no deb for this version yet. | YouTube | v4.2.1 | YouTube Reborn | LillieH1000 & arichorn | DEB |
 </details>
 
 <details>
@@ -74,7 +74,7 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Direct-App Download](https://tinyurl.com/264dckzf) | v3.0.1 | v18.33.2 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
+   | [Direct-App Download](https://tinyurl.com/mr3nrdz2) | v3.0.1 | v18.34.5 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
@@ -90,7 +90,7 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Direct-App Download](https://tinyurl.com/3dpmyynx) | v4.2.0 | v18.29.1 | YouTubeRebornPlus | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
+   | [Direct-App Download](https://tinyurl.com/3ucyf2th) | v4.2.1 | v18.34.5 | YouTubeRebornPlus | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
 </details>
 
 ### About the YouTube Tweaks.
@@ -98,7 +98,7 @@ need help installing & using Altstore? then go check out these websites for
 
 **uYouPlus:** this version is like MiRO92's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, Galactic-Dev Level3tjg, BandarHL and more other cool developers.
 
-**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes a ton of additional tweaks! **YTAppVersionSpoofer**, **YTNoModernUI**, **LowContrastMode**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, **& more.**
+**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes a ton of additional tweaks! **YTAppVersionSpoofer**, **YTNoModernUI**, ,**YTNoCommunityPosts**, **LowContrastMode**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, **& more.**
   
 **uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but except these version(s) won't ever update to the newest YouTube Versions. LTS Releases always adds uYouPlus/uYouPlusExtra Features and provides stability if needed in those releases. and keep that in mind that these releases will stay on that version until I end support on it!
 
@@ -108,7 +108,7 @@ need help installing & using Altstore? then go check out these websites for
 
 **uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to `v3.0.1` as of `July 23rd 2023` which means the issues you had with uYou 3.0 should be gone now. but I do Recommend using arichorn's uYouPlusExtra Tweak on the latest release for some additional features, fixes and even improvements. don't use qnblackcat's uYouPlus since there is ongoing issues that aren't solved it.
 
-**YouTube Reborn Disclaimer:** I had modified the YouTube Reborn Tweak for the tweak YouTubeRebornPlus because if I didn't update or modify it then the tweak would have gotten a ton of issues.
+**YouTube Reborn Disclaimer:** I had modified the YouTube Reborn Tweak for the tweak YouTubeRebornPlus because if I didn't update or modify it then the tweak would have some bugs.
 
 ----------------------------------
 ## uYouPlusExtra-Downloads Status
@@ -147,6 +147,7 @@ need help installing & using Altstore? then go check out these websites for
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on September 2nd 2023!
+- Recently Updated this on September 9th 2023!
 - `Updated all uYouPlusExtra releases`
+- `Updated all YouTubeRebornPlus releases`
 - `Fixed Grammer Spelling Errors`
