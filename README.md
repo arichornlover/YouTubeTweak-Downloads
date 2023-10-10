@@ -24,11 +24,11 @@ need help installing & using Altstore? then go check out these websites for
 
    | Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.34.5-3.0.1/uYouPlusExtra_18.34.5_3.0.1.ipa) | YouTube | v18.34.5 | v3.0.1 | uYouPlusExtra | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/uYouPlusExtra/releases/download/v18.39.1-3.0.1/uYouPlusExtra_18.39.1_3.0.1.ipa) | YouTube | v18.39.1 | v3.0.1 | uYouPlusExtra | arichorn | IPA |
 
    | Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|
-   | [Direct Download](https://github.com/arichorn/YouTubeRebornPlus/releases/download/v18.34.5-4.2.1/YouTubeRebornPlus_18.34.5_4.2.1.ipa) | YouTube | v18.34.5 | v4.2.1 | YouTubeRebornPlus | arichorn | IPA |
+   | [Direct Download](https://github.com/arichorn/YouTubeRebornPlus/releases/download/v18.40.1-4.2.2/YouTubeRebornPlus_18.40.1_4.2.2.ipa) | YouTube | v18.40.1 | v4.2.2 | YouTubeRebornPlus | arichorn | IPA |
 </details>
 
 <details>
@@ -36,11 +36,11 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | App Name | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-------------:|:------------:|:-----------:|:---------:|
-   | [Direct Download](https://dl.dropboxusercontent.com/s/8xv1vota8elfoml/YouTube.Reborn.v4.0.9.deb) | YouTube | v4.0.9 | YouTube Reborn | LillieH1000 | DEB |
+   | [Direct Download](https://github.com/LillieH1000/YouTube-Reborn/releases/download/4.1.1/h.ryan.youtubereborn_4.1.1_iphoneos-arm.deb) | YouTube | v4.1.1 | YouTube Reborn | LillieH1000 | DEB |
    
    | Download Link | App Name | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-------------:|:------------:|:-----------:|:---------:|
-   | There is no deb for this version yet. | YouTube | v4.2.1 | YouTube Reborn | LillieH1000 & arichorn | DEB |
+   | [Direct Download](https://github.com/arichorn/YouTube-Reborn-Updated/releases/download/v4.2.2/YouTube.Reborn.4.2.2_iphoneos-arm.deb) | YouTube | v4.2.2 | YouTube Reborn | LillieH1000 & arichorn | DEB |
 </details>
 
 <details>
@@ -74,7 +74,7 @@ need help installing & using Altstore? then go check out these websites for
   
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Direct-App Download](https://tinyurl.com/mr3nrdz2) | v3.0.1 | v18.34.5 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
+   | [Direct-App Download](https://tinyurl.com/36djdsdh) | v3.0.1 | v18.39.1 | uYouPlusExtra | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
@@ -90,25 +90,25 @@ need help installing & using Altstore? then go check out these websites for
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Direct-App Download](https://tinyurl.com/3ucyf2th) | v4.2.1 | v18.34.5 | YouTubeRebornPlus | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
+   | [Direct-App Download](https://tinyurl.com/5n8mvykm) | v4.2.2 | v18.40.1 | YouTubeRebornPlus | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
 </details>
 
 ### About the YouTube Tweaks.
-**uYou:** the original developer of uYou was the tweak developer MiRO92.
+**uYou:** The original developer of uYou was MiRO92, a tweak developer.
 
-**uYouPlus:** this version is like MiRO92's uYou Tweak except it has a lot of more tweaks that were made or modified by qnblackcat, Galactic-Dev Level3tjg, BandarHL and more other cool developers.
+**uYouPlus:** This version is similar to MiRO92's uYou Tweak, but it includes many more tweaks that were made or modified by developers such as qnblackcat, Galactic-Dev, Level3tjg, BandarHL, and more.
 
-**uYouPlusExtra:** just like qnblackcat's uYouPlus but my version includes a ton of additional tweaks! **YTAppVersionSpoofer**, **YTNoModernUI**, ,**YTNoCommunityPosts**, **LowContrastMode**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, **& more.**
-  
-**uYouPlusExtra LTS:** just like arichorn/uYouPlusExtra but except these version(s) won't ever update to the newest YouTube Versions. LTS Releases always adds uYouPlus/uYouPlusExtra Features and provides stability if needed in those releases. and keep that in mind that these releases will stay on that version until I end support on it!
+**uYouPlusExtra:** Similar to qnblackcat's uYouPlus, but my version includes a ton of additional tweaks! Some of these tweaks are **YTAppVersionSpoofer**, **YTNoModernUI**, **YTNoCommunityPosts**, **LowContrastMode**, **YTNoHeatWaves**, **YTNoUpdateMenu**, **HideYouTubeLogo**, and more.
 
-**YouTubeRebornPlus:** YouTubeRebornPlus is a Tweak that improves the YouTube Reborn Tweak that was made by **LillieH1000** & with the help its Contributors. YouTubeRebornPlus just adds a little bit more to the tweak and other additional features.
+**uYouPlusExtra LTS:** Similar to arichorn/uYouPlusExtra, but these versions will not update to the newest YouTube versions. LTS releases always add uYouPlus/uYouPlusExtra features and provide stability if needed. Please note that these releases will remain on that version until I end support for them.
+
+**YouTubeRebornPlus:** YouTubeRebornPlus is a tweak that enhances the YouTube Reborn Tweak, which was created by LillieH1000 and its contributors. YouTubeRebornPlus adds a little bit more to the tweak and includes additional features.
 
 ----------------------------------
 
-**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to `v3.0.1` as of `July 23rd 2023` which means the issues you had with uYou 3.0 should be gone now. but I do Recommend using arichorn's uYouPlusExtra Tweak on the latest release for some additional features, fixes and even improvements. don't use qnblackcat's uYouPlus since there is ongoing issues that aren't solved it.
+**uYou Disclaimer:** MiRO's uYou Tweak has recently been updated to version 3.0.1 as of July 23rd, 2023. This update should resolve any issues that were present in uYou 3.0. However, I highly recommend using arichorn's uYouPlusExtra Tweak on the latest release for additional features, fixes, and improvements. It is advisable to avoid using qnblackcat's uYouPlus as it currently hasn't updated.
 
-**YouTube Reborn Disclaimer:** I had modified the YouTube Reborn Tweak for the tweak YouTubeRebornPlus because if I didn't update or modify it then the tweak would have some bugs.
+**YouTube Reborn Disclaimer:** I have made modifications to the YouTube Reborn Tweak in order to keep the YouTubeRebornPlus tweak up-to-date. These modifications were necessary to improve upon the original.
 
 ----------------------------------
 ## uYouPlusExtra-Downloads Status
@@ -147,7 +147,7 @@ need help installing & using Altstore? then go check out these websites for
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on September 9th 2023!
+- Recently Updated this on October 10th 2023!
 - `Updated all uYouPlusExtra releases`
 - `Updated all YouTubeRebornPlus releases`
-- `Fixed Grammer Spelling Errors`
+- `Enhanced Spelling`
