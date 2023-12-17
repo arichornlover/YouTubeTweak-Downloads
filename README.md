@@ -27,7 +27,7 @@ need it for Trollstore? go here and find the ipa containing the name **uYouEnhan
 
    | Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|
-   | [Download](https://github.com/arichorn/uYouEnhanced/releases/download/v18.48.3-3.0.1/uYouPlusExtra_18.48.3_3.0.1.ipa) | YouTube | v18.48.2 | v3.0.1 | uYouEnhanced | arichorn | IPA |
+   | [Download](https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1/uYouEnhanced_18.49.3_3.0.1.ipa) | YouTube | v18.49.3 | v3.0.1 | uYouEnhanced | arichorn | IPA |
 
    | Download Link | App Name | App Version | Tweak Version | Release Name | Released By | File Type |
    |---------------|:--------:|:-----------:|:-------------:|:------------:|:-----------:|:---------:|
@@ -77,7 +77,7 @@ need it for Trollstore? go here and find the ipa containing the name **uYouEnhan
   
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Altstore Download](https://tinyurl.com/4w4295ct) | v3.0.1 | v18.48.2 | uYouEnhanced | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
+   | [Altstore Download](http://tinyurl.com/2rtwpcnc) | v3.0.1 | v18.49.3 | uYouEnhanced | arichorn | Non-Jailbroken 📲✅ | Not Supported | Altstore
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
@@ -89,7 +89,7 @@ need it for Trollstore? go here and find the ipa containing the name **uYouEnhan
 
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
-   | [Altstore Download](https://tinyurl.com/npztp9jh) | v2.1 | v16.42.3 | uYouPlusExtra [LTS 20] | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
+   | [Altstore Download](https://tinyurl.com/npztp9jh) | v2.1 | v16.42.3 | uYouEnhanced [LTS 20] | arichorn | Non-Jailbroken 📲✅ | Supported | Altstore
  
    | Download Link | Tweak Version | App Version | Release Name | Released By | App Compatibility | Rootless | App Type |
    |---------------|:-------------:|:-----------:|:------------:|:-----------:|:-----------------:|:--------:|:--------:|
@@ -140,8 +140,6 @@ need it for Trollstore? go here and find the ipa containing the name **uYouEnhan
   - Venmo: https://venmo.com/u/DavidBrett
 
 ## Updated Repository
-- Recently Updated this on December 9th 2023!
+- Recently Updated this on December 17th 2023!
 - `Updated all uYouEnhanced releases`
-- `Updated all YouTubeRebornPlus releases`
 - `Enhanced Spelling`
-- `Better Badges`
